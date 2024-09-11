@@ -79,7 +79,7 @@ Gesture Commands:
 
 ## License
 
-This project is licensed under the GNU License - please take a look at the LICENSE file for details.
+This project is licensed under the **GNU General Public License (GPL)**. Please take a look at the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
