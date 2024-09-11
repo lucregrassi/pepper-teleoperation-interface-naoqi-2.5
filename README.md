@@ -16,7 +16,7 @@ This project provides a teleoperation interface for controlling an older Pepper 
 - A PC connected to the same network as the Pepper robot.
 - Python 2.7 installed on the PC.
 - A `sentences.txt` file with custom phrases.
-- Naoqi Python SDK installed on your local machine.
+- Naoqi Python SDK installed on your local machine (you can download it [here](http://doc.aldebaran.com/2-5/dev/python/install_guide.html)).
 
 ## Installation
 
