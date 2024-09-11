@@ -1,6 +1,6 @@
 # Pepper Teleoperation Interface (Naoqi 2.5)
 
-This project provides a teleoperation interface for controlling an older Pepper robot running **Naoqi 2.5**. The application allows the robot to execute movement, speech, and predefined behaviors via keyboard input. This script connects to the robot over a network and uses Naoqi's services to perform various tasks.
+This project provides a teleoperation interface for controlling an older Pepper robot running **Naoqi 2.5**. The application allows the robot to execute movement, speech, and predefined behaviors via keyboard input. The `main.py` script connects to the robot over a network and uses Naoqi's services to perform various tasks.
 
 ## Features
 
